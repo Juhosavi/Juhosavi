@@ -12,7 +12,7 @@ Skills:
 - 🔭 I’m currently working on Unreal & Metahuman 
 - 🌱 I’m currently learning Blender & Unreal
 
-- [![Watch the video](https://i.stack.imgur.com/Vp2cE.png)]([https://youtu.be/vt5fpE0bzSY](https://www.youtube.com/watch?v=7ZX4Ji5UHEM&ab_channel=Diskokeisari))
+- ([https://youtu.be/vt5fpE0bzSY](https://www.youtube.com/watch?v=7ZX4Ji5UHEM&ab_channel=Diskokeisari))
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Juhosavi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/juho-savinainen-61819122b/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/JuhoSavinainen)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/juhosavinainen/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/@Diskokeisari/featured)  
