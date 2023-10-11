@@ -4,10 +4,14 @@
 
 I'm a game developer with a passion for creating games. I've successfully developed several games, and I possess strong skills in C# and Unity. Currently, I'm expanding my knowledge by diving into Unreal Engine and exploring the world of MetaHumans.
 
-Skills: C# / Unity
+Skills: 
+💾 coding: C#, Python
+🖥️Engines: Unity, Unreal(learning)
+💻Others: SQL
+
 - 🔭 I’m currently working on Unreal & Metahuman 
 - 🌱 I’m currently learning Blender & Unreal 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Juhosavi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/JuhoSavinainen/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/JuhoSavinainen)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/juhosavinainen/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/Diskokeisari)  
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juhosavi&hide_progress=true)
