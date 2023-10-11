@@ -1,4 +1,4 @@
-### Hi there 👋, Juho Savinainen
+Juho Savinainen
 #### Game Programmer & Developer
 ![Game Programmer & Developer](https://media.licdn.com/dms/image/D4D16AQFUjGb7bSSMBA/profile-displaybackgroundimage-shrink_350_1400/0/1693927495960?e=1702512000&v=beta&t=cXpcW5Ss96JMynLSJiK2mlmDlWLr-t85UBVphteSFm4)
 
