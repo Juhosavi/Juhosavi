@@ -26,6 +26,8 @@ Skills:
 
 <h3>SpaceCat</h3>
 <img alt="FPH" width="500px" src="https://github.com/Juhosavi/games/blob/main/SpaceCatGame/spacecattern.jpg"/></summary>
+<img alt="FPH" width="500px" src="https://github.com/Juhosavi/games/blob/main/SpaceCatGame/spaccat2.jpg"/></summary>
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juhosavi&hide_progress=true)
 
