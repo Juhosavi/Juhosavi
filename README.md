@@ -27,8 +27,10 @@ Skills:
 [[Gameplay video]](https://www.youtube.com/watch?v=jUX5UMskR-0&ab_channel=Diskokeisari)
 
 <h3>SpaceCat</h3>
-<img alt="FPH" width="500px" src="https://github.com/Juhosavi/games/blob/main/SpaceCatGame/spacecattern.jpg"/></summary>
+
 <img alt="FPH" width="500px" src="https://github.com/Juhosavi/games/blob/main/SpaceCatGame/spaccat2.jpg"/></summary>
+
+[[Gameplay video]](https://youtu.be/9X_vHkCXZ6A)
 
 
 
