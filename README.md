@@ -12,6 +12,8 @@ Skills:
 - 🔭 I’m currently working on Unreal & Metahuman 
 - 🌱 I’m currently learning Blender & Unreal
 
+  Here is couple projects
+
 <h3>Dark Rooms</h3>
 
 <img alt="DarkRooms" width="500px" src="https://raw.githubusercontent.com/Erto87/Erto87/main/DarkRooms.png"/></summary>
@@ -28,8 +30,6 @@ Skills:
 <img alt="FPH" width="500px" src="https://github.com/Juhosavi/games/blob/main/SpaceCatGame/spacecattern.jpg"/></summary>
 <img alt="FPH" width="500px" src="https://github.com/Juhosavi/games/blob/main/SpaceCatGame/spaccat2.jpg"/></summary>
 
-<h3>ZooAdventure (EU, Giga Project)</h3>
-https://play.unity.com/mg/other/build-6ic
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juhosavi&hide_progress=true)
