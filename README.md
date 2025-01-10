@@ -12,7 +12,13 @@ Skills:
 - 🔭 I’m currently working on Unreal & Metahuman 
 - 🌱 I’m currently learning Blender & Unreal
 
-  Here is couple projects
+Here is couple projects
+
+<h3>Spaceman & Spaceboy</h3>
+
+<a href="https://juhosavi.itch.io/spacegame">
+  <img alt="Spaceman & Spaceboy" width="500px" src="https://img.itch.zone/aW1nLzE4OTE5MzE3LnBuZw==/315x250%23c/F%2BWus1.png"/>
+</a>
 
 <h3>Dark Rooms</h3>
 
@@ -28,13 +34,14 @@ Skills:
 
 <h3>SpaceCat</h3>
 
-<img alt="FPH" width="500px" src="https://github.com/Juhosavi/games/blob/main/SpaceCatGame/spaccat2.jpg"/></summary>
+<img alt="SpaceCat" width="500px" src="https://github.com/Juhosavi/games/blob/main/SpaceCatGame/spaccat2.jpg"/></summary>
 
 [[Gameplay video]](https://youtu.be/9X_vHkCXZ6A)
 
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juhosavi&hide_progress=true)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Juhosavi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/juho-savinainen-61819122b/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/JuhoSavinainen)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/juhosavinainen/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/@Diskokeisari/featured)  
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Juhosavi)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/juho-savinainen-61819122b/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/JuhoSavinainen)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/juhosavinainen/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/@Diskokeisari/featured)
