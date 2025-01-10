@@ -16,9 +16,9 @@ Here is couple projects
 
 <h3>Spaceman & Spaceboy</h3>
 
-<a href="https://juhosavi.itch.io/spacegame">
-  <img alt="Spaceman & Spaceboy" width="500px" src="https://img.itch.zone/aW1nLzE4OTE5MzE3LnBuZw==/315x250%23c/F%2BWus1.png"/>
-</a>
+<img alt="Spaceman & Spaceboy" width="500px" src="https://img.itch.zone/aW1nLzE4OTE5MzE3LnBuZw==/315x250%23c/F%2BWus1.png"/>
+
+<a href="https://juhosavi.itch.io/spacegame">Play the game</a>
 
 <h3>Dark Rooms</h3>
 
