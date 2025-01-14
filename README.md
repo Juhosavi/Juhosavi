@@ -4,9 +4,9 @@ Juho Savinainen
 I'm a game developer with a passion for creating games. I've successfully developed several games, and I possess strong skills in C# and Unity. Currently, I'm expanding my knowledge by diving into Unreal Engine and exploring the world of MetaHumans.
 
 Skills: 
-💾 coding: C#, Python
+💾 coding: C#, C++, Python
 🖥️Engines: Unity, Unreal(learning)
-💻Others: C++, Python, javascript, HTML, CSS, SQL
+💻Others: javascript, HTML, CSS, SQL
 
 - 🔭 I’m currently working on Unreal & Metahuman 
 - 🌱 I’m currently learning Blender & Unreal
