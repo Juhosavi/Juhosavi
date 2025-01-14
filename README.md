@@ -7,7 +7,7 @@ I'm a game developer with a passion for creating games. I've successfully develo
 Skills: 
 💾 coding: C#, Python
 🖥️Engines: Unity, Unreal(learning)
-💻Others: SQL
+💻Others: C++, Python, javascript, HTML, CSS, SQL
 
 - 🔭 I’m currently working on Unreal & Metahuman 
 - 🌱 I’m currently learning Blender & Unreal
