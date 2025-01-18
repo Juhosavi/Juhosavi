@@ -37,6 +37,6 @@ Here is couple projects
 
 [[Gameplay video]](https://youtu.be/9X_vHkCXZ6A)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juhosavi&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juhosavi&layout=compact)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/@Diskokeisari/featured)
