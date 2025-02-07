@@ -6,7 +6,7 @@
 ## 🛠 Skills  
 💾 **Coding:** C#, C++, Python  
 🖥️ **Engines:** Unity, Unreal (learning)  
-💻 **Other:** JavaScript, HTML, CSS, SQL  
+💻 **Other:** Python, JavaScript, HTML, CSS, SQL  
 
 🚀 **Currently Learning:** Blender & Unreal Engine  
 
