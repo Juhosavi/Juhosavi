@@ -22,6 +22,7 @@
 [![Watch Gameplay](https://raw.githubusercontent.com/Erto87/Erto87/main/FPH.png?width=1193&height=671)](https://www.youtube.com/watch?v=jUX5UMskR-0&ab_channel=Diskokeisari)  
 
 ▶️ **[Gameplay Video](https://www.youtube.com/watch?v=jUX5UMskR-0&ab_channel=Diskokeisari)**  
+💾 **[GitHub Repo](https://github.com/Juhosavi/FPH)**  
 
 ---
 
@@ -40,6 +41,7 @@ A first-person horror game created as a group project. I was the project lead an
 [![Dark Rooms](https://raw.githubusercontent.com/Erto87/Erto87/main/DarkRooms.png)](https://www.youtube.com/watch?v=7ZX4Ji5UHEM&ab_channel=Diskokeisari)  
 
 ▶️ **[Gameplay Video](https://www.youtube.com/watch?v=7ZX4Ji5UHEM&ab_channel=Diskokeisari)**  
+💾 **[GitHub Repo](https://github.com/Juhosavi/games/tree/main/3DHorror)**  
 
 ---
 
@@ -49,6 +51,7 @@ My first group game project, where I was responsible for coding core gameplay me
 [![SpaceCat](https://github.com/Juhosavi/games/blob/main/SpaceCatGame/spaccat2.jpg)](https://youtu.be/9X_vHkCXZ6A)  
 
 ▶️ **[Gameplay Video](https://youtu.be/9X_vHkCXZ6A)**  
+💾 **[GitHub Repo](https://github.com/Juhosavi/games/tree/main/SpaceCatGame)**  
 
 ---
 
