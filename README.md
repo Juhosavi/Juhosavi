@@ -1,46 +1,56 @@
-# Juho Savinainen  
-**Game Programmer & Developer**  
+<h1>Juho Savinainen</h1>
+<strong>Game Programmer & Developer</strong>
 
-👋 Hi, I’m Juho, a passionate game developer with experience in both solo and team projects. I specialize in C# and Unity but am currently expanding my expertise into Unreal Engine and MetaHumans.  
+<p>👋 Hi, I’m Juho, a passionate game developer with experience in both solo and team projects. I specialize in <strong>C# and Unity</strong> but am currently expanding my expertise into <strong>Unreal Engine and MetaHumans</strong>.</p>
 
-## 🛠 Skills  
-💾 **Coding:** C#, C++, Python  
-🖥️ **Engines:** Unity, Unreal (learning)  
-💻 **Other:** Python, JavaScript, HTML, CSS, SQL  
+<h2>🛠 Skills</h2>
+<ul>
+  <li>💾 <strong>Coding:</strong> C#, C++, Python</li>
+  <li>🖥️ <strong>Engines:</strong> Unity, Unreal (learning)</li>
+  <li>💻 <strong>Other:</strong> Python, JavaScript, HTML, CSS, SQL</li>
+</ul>
 
-🚀 **Currently Learning:** Blender & Unreal Engine  
+<p>🚀 <strong>Currently Learning:</strong> Blender & Unreal Engine</p>
+<p>📫 <strong>Contact:</strong> <a href="https://www.youtube.com/@Diskokeisari/featured" target="_blank">YouTube</a></p>
 
-📫 **Contact:** [YouTube](https://www.youtube.com/@Diskokeisari/featured)  
+<hr>
 
----
+<h2>🔥 Projects</h2>
 
-## 🔥 Projects  
+<h3>First Person Hockey Multiplayer</h3>
+<p>A fast-paced online multiplayer hockey game with first-person controls.</p>
+<p>
+  <a href="https://www.youtube.com/watch?v=jUX5UMskR-0&ab_channel=Diskokeisari" target="_blank">🎥 Gameplay Video</a><br>
+  <a href="https://github.com/Juhosavi/FPH" target="_blank">🛠 GitHub Repository</a>
+</p>
 
-### **First Person Hockey Multiplayer**  
-A fast-paced online multiplayer hockey game with first-person controls.  
-**[Gameplay Video](https://www.youtube.com/watch?v=jUX5UMskR-0&ab_channel=Diskokeisari)**  
-**[GitHub Repo](https://github.com/Juhosavi/FPH)**  
+<h3>Spaceman & Spaceboy</h3>
+<p>A solo Unity project with custom-made graphics.</p>
+<p>
+  <a href="https://juhosavi.itch.io/spacegame" target="_blank">🎮 Play the game</a><br>
+  <a href="https://github.com/Juhosavi/Spaceman" target="_blank">🛠 GitHub Repository</a>
+</p>
 
-### **Spaceman & Spaceboy**  
-A solo Unity project with custom-made graphics.  
-**[Play the game](https://juhosavi.itch.io/spacegame)** 
-**[GitHub Repo](https://github.com/Juhosavi/Spaceman)**  
+<h3>Dark Rooms</h3>
+<p>A first-person horror game created as a group project.</p>
+<p>
+  <a href="https://www.youtube.com/watch?v=7ZX4Ji5UHEM&ab_channel=Diskokeisari" target="_blank">🎥 Gameplay Video</a><br>
+  <a href="https://github.com/Juhosavi/DarkRooms" target="_blank">🛠 GitHub Repository</a>
+</p>
 
+<h3>SpaceCat</h3>
+<p>My first group game project, where I coded core gameplay mechanics.</p>
+<p>
+  <a href="https://youtu.be/9X_vHkCXZ6A" target="_blank">🎥 Gameplay Video</a><br>
+  <a href="https://github.com/Juhosavi/games/tree/main/SpaceCatGame" target="_blank">🛠 GitHub Repository</a>
+</p>
 
-### **Dark Rooms**  
-A first-person horror game created as a group project.  
-**[Gameplay Video](https://www.youtube.com/watch?v=7ZX4Ji5UHEM&ab_channel=Diskokeisari)**  
-**[GitHub Repo](https://github.com/Juhosavi/Spaceman](https://github.com/Juhosavi/DarkRooms)**  
+<h3>Bubble Brawl (GameJam 2024)</h3>
+<p>A chaotic multiplayer bubble-fighting game.</p>
+<p>
+  <a href="https://juhosavi.itch.io/bubble-brawl" target="_blank">🎮 Play the game</a>
+</p>
 
-### **SpaceCat**  
-My first group game project, where I coded core gameplay mechanics.  
-**[Gameplay Video](https://youtu.be/9X_vHkCXZ6A)**  
-**[GitHub Repo](https://github.com/Juhosavi/games/tree/main/SpaceCatGame)**  
+<hr>
 
-### **Bubble Brawl (GameGam 2024)**  
-A chaotic multiplayer bubble-fighting game.  
-**[Play the game](https://juhosavi.itch.io/bubble-brawl)**  
-
----
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juhosavi&layout=compact)
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juhosavi&layout=compact" alt="Top Languages"></p>
