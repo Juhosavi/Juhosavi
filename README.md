@@ -20,35 +20,35 @@
 <h3>First Person Hockey Multiplayer</h3>
 <p>A fast-paced online multiplayer hockey game with first-person controls.</p>
 <p>
-  <a href="https://www.youtube.com/watch?v=jUX5UMskR-0&ab_channel=Diskokeisari" target="_blank">🎥 Gameplay Video</a><br>
-  <a href="https://github.com/Juhosavi/FPH" target="_blank">🛠 GitHub Repository</a>
+  <a href="https://www.youtube.com/watch?v=jUX5UMskR-0&ab_channel=Diskokeisari" target="_blank">Gameplay Video</a><br>
+  <a href="https://github.com/Juhosavi/FPH" target="_blank">GitHub Repository</a>
 </p>
 
 <h3>Spaceman & Spaceboy</h3>
 <p>A solo Unity project with custom-made graphics.</p>
 <p>
-  <a href="https://juhosavi.itch.io/spacegame" target="_blank">🎮 Play the game</a><br>
-  <a href="https://github.com/Juhosavi/Spaceman" target="_blank">🛠 GitHub Repository</a>
+  <a href="https://juhosavi.itch.io/spacegame" target="_blank">Play the game</a><br>
+  <a href="https://github.com/Juhosavi/Spaceman" target="_blank">GitHub Repository</a>
 </p>
 
 <h3>Dark Rooms</h3>
 <p>A first-person horror game created as a group project.</p>
 <p>
-  <a href="https://www.youtube.com/watch?v=7ZX4Ji5UHEM&ab_channel=Diskokeisari" target="_blank">🎥 Gameplay Video</a><br>
-  <a href="https://github.com/Juhosavi/DarkRooms" target="_blank">🛠 GitHub Repository</a>
+  <a href="https://www.youtube.com/watch?v=7ZX4Ji5UHEM&ab_channel=Diskokeisari" target="_blank">Gameplay Video</a><br>
+  <a href="https://github.com/Juhosavi/DarkRooms" target="_blank">GitHub Repository</a>
 </p>
 
 <h3>SpaceCat</h3>
 <p>My first group game project, where I coded core gameplay mechanics.</p>
 <p>
-  <a href="https://youtu.be/9X_vHkCXZ6A" target="_blank">🎥 Gameplay Video</a><br>
-  <a href="https://github.com/Juhosavi/games/tree/main/SpaceCatGame" target="_blank">🛠 GitHub Repository</a>
+  <a href="https://youtu.be/9X_vHkCXZ6A" target="_blank">Gameplay Video</a><br>
+  <a href="https://github.com/Juhosavi/games/tree/main/SpaceCatGame" target="_blank">GitHub Repository</a>
 </p>
 
 <h3>Bubble Brawl (GameJam 2024)</h3>
 <p>A chaotic multiplayer bubble-fighting game.</p>
 <p>
-  <a href="https://juhosavi.itch.io/bubble-brawl" target="_blank">🎮 Play the game</a>
+  <a href="https://juhosavi.itch.io/bubble-brawl" target="_blank">Play the game</a>
 </p>
 
 <hr>
