@@ -30,7 +30,7 @@ A solo Unity project with custom-made graphics.
 ### **Dark Rooms**  
 A first-person horror game created as a group project.  
 **[Gameplay Video](https://www.youtube.com/watch?v=7ZX4Ji5UHEM&ab_channel=Diskokeisari)**  
-**[GitHub Repo]([https://github.com/Juhosavi/games/tree/main/3DHorror](https://github.com/Juhosavi/DarkRooms))**  
+**[GitHub Repo](https://github.com/Juhosavi/Spaceman](https://github.com/Juhosavi/DarkRooms)**  
 
 ### **SpaceCat**  
 My first group game project, where I coded core gameplay mechanics.  
