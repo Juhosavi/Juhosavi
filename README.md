@@ -51,6 +51,13 @@
   <a href="https://juhosavi.itch.io/bubble-brawl" target="_blank">Play the game</a>
 </p>
 
+<h3>Airport Z</h3>
+<p>A web-based adventure survival game where players travel between airports, 
+navigate using an interactive map, and fight zombies while reaching their final destination.</p>
+<p>
+  <a href="https://github.com/Juhosavi/AirportZ_2077" target="_blank">GitHub Repository</a>
+</p>
+
 <hr>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juhosavi&layout=compact" alt="Top Languages"></p>
