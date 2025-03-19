@@ -6,7 +6,7 @@
 <h2>🛠 Skills</h2>
 <ul>
   <li>💾 <strong>Coding:</strong> C#, C++, Python</li>
-  <li>🖥️ <strong>Engines:</strong> Unity, Unreal (learning)</li>
+  <li>🖥️ <strong>Engines:</strong> Unity, Unreal, Godot</li>
   <li>💻 <strong>Other:</strong> Python, JavaScript, HTML, CSS, SQL</li>
 </ul>
 
