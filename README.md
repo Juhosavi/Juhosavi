@@ -44,6 +44,14 @@
   <a href="https://youtu.be/9X_vHkCXZ6A" target="_blank">Gameplay Video</a><br>
   <a href="https://github.com/Juhosavi/games/tree/main/SpaceCatGame" target="_blank">GitHub Repository</a>
 </p>
+<h3>Chess Game & AI Bot</h3>
+<p>A full-featured chess game where the player competes against a custom AI opponent.  
+The bot uses alpha-beta pruning and asynchronous move evaluation for smarter and faster decision-making.  
+Built with C++ and rendered using SFML.</p>
+<p>
+  <a href="https://github.com/Juhosavi/Chessbot_cpp" target="_blank">GitHub Repository</a>
+</p>
+
 
 <h3>Bubble Brawl (GameJam 2024)</h3>
 <p>A chaotic multiplayer bubble-fighting game.</p>
