@@ -35,7 +35,7 @@
 <h2>My Game Projects</h2>
 
 <h3>First Person Hockey Multiplayer</h3>
-<img src="images/fph.gif" alt="First Person Hockey Multiplayer" style="max-width: 100%; height: auto;" />
+<img src="images/fph.jpg" alt="First Person Hockey Multiplayer" style="width:100%;max-width:600px;">
 <p>A fast-paced online multiplayer hockey game with first-person controls.</p>
 <p>
   <a href="https://www.youtube.com/watch?v=jUX5UMskR-0&ab_channel=Diskokeisari" target="_blank">Gameplay Video</a><br>
@@ -43,7 +43,7 @@
 </p>
 
 <h3>Spaceman & Spaceboy</h3>
-<img src="images/space.gif" alt="Spaceman & Spaceboy" style="max-width: 100%; height: auto;" />
+<img src="images/spaceman.jpg" alt="Spaceman & Spaceboy" style="width:100%;max-width:600px;">
 <p>A solo Unity project with custom-made graphics.</p>
 <p>
   <a href="https://juhosavi.itch.io/spacegame" target="_blank">Play the game</a><br>
@@ -51,7 +51,7 @@
 </p>
 
 <h3>Dark Rooms</h3>
-<img src="images/horrorrr.gif" alt="Dark Rooms" style="max-width: 100%; height: auto;" />
+<img src="images/darkrooms.jpg" alt="Dark Rooms" style="width:100%;max-width:600px;">
 <p>A first-person horror game created as a group project.</p>
 <p>
   <a href="https://www.youtube.com/watch?v=7ZX4Ji5UHEM&ab_channel=Diskokeisari" target="_blank">Gameplay Video</a><br>
@@ -59,7 +59,7 @@
 </p>
 
 <h3>SpaceCat</h3>
-<img src="images/spacecat.png" alt="SpaceCat" style="max-width: 100%; height: auto;" />
+<img src="images/spacecat.jpg" alt="SpaceCat" style="width:100%;max-width:600px;">
 <p>My first group game project, where I coded core gameplay mechanics.</p>
 <p>
   <a href="https://youtu.be/9X_vHkCXZ6A" target="_blank">Gameplay Video</a><br>
@@ -67,25 +67,32 @@
 </p>
 
 <h3>Chess Game & AI Bot</h3>
-<img src="images/chessgame.png" alt="Chess Game & AI Bot" style="max-width: 100%; height: auto;" />
-<p>A full-featured chess game where the player competes against a custom AI opponent.</p>
+<img src="images/chessbot.jpg" alt="Chess Game & AI Bot" style="width:100%;max-width:600px;">
+<p>A full-featured chess game where the player competes against a custom AI opponent.  
+The bot uses alpha-beta pruning and asynchronous move evaluation for smarter and faster decision-making.  
+Built with C++ and rendered using SFML.</p>
 <p>
   <a href="https://github.com/Juhosavi/Chessbot_cpp" target="_blank">GitHub Repository</a>
 </p>
 
 <h3>Bubble Brawl (GameJam 2024)</h3>
-<img src="images/bubblebrawl.gif" alt="Bubble Brawl" style="max-width: 100%; height: auto;" />
+<img src="images/bubblebrawl.jpg" alt="Bubble Brawl" style="width:100%;max-width:600px;">
 <p>A chaotic multiplayer bubble-fighting game.</p>
 <p>
   <a href="https://juhosavi.itch.io/bubble-brawl" target="_blank">Play the game</a>
 </p>
 
 <h3>Airport Z</h3>
-<img src="images/airportz.png" alt="Airport Z" style="max-width: 100%; height: auto;" />
-<p>A web-based adventure survival game where players travel between airports, navigate using an interactive map, and fight zombies while reaching their final destination.</p>
+<img src="images/airportz.jpg" alt="Airport Z" style="width:100%;max-width:600px;">
+<p>A web-based adventure survival game where players travel between airports, 
+navigate using an interactive map, and fight zombies while reaching their final destination.</p>
 <p>
   <a href="https://github.com/Juhosavi/AirportZ_2077" target="_blank">GitHub Repository</a>
 </p>
+
+<hr>
+
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juhosavi&layout=compact" alt="Top Languages"></p>
 
 
 <hr>
