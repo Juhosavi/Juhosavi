@@ -1,5 +1,5 @@
 <h1>Juho Savinainen</h1>
-<p><a href="https://juhosavi.github.io" target="_blank"><strong>🔗 Portfolio: juhosavi.github.io</strong></a></p>
+<p><a href="https://juhosavi.github.io" target="_blank"><strong>Portfolio: juhosavi.github.io</strong></a></p>
 <strong>Game Programmer & Developer</strong>
 
 <p>Hi, I’m Juho, a game developer with experience in both solo and team projects. I specialize in <strong>C# and Unity</strong> and am currently expanding my expertise into <strong>Unreal Engine and MetaHumans</strong>.</p>
@@ -27,7 +27,7 @@
 </ul>
 
 <p>
-  🔗 <a href="https://github.com/Juhosavi/UnityToolsCollection" target="_blank">GitHub Repository</a>
+<a href="https://github.com/Juhosavi/UnityToolsCollection" target="_blank">GitHub Repository</a>
 </p>
 
 <hr>
