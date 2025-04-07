@@ -35,7 +35,7 @@
 <h2>My Game Projects</h2>
 
 <h3>Finnish Pipo Hockey</h3>
-<p>A fast-paced online multiplayer hockey game.</p>
+<p>A third-person multiplayer hockey game developed with Unity and C#. In this game, you control a single player and participate in team-based hockey matches. The project utilizes a dedicated server for online play and is currently under development. My responsibilities include gameplay programming, rule design, and overall game planning. </p>
 <img src="https://github.com/Juhosavi/Juhosavi/blob/main/images/fph.gif" alt="First Person Hockey Multiplayer" width="500">
 <p>
   <a href="https://www.youtube.com/watch?v=jUX5UMskR-0&ab_channel=Diskokeisari" target="_blank">Gameplay Video</a><br>
