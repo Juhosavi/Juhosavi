@@ -36,6 +36,7 @@
 
 <h3>First Person Hockey Multiplayer</h3>
 <p>A fast-paced online multiplayer hockey game with first-person controls.</p>
+<img src="https://github.com/Juhosavi/Juhosavi/blob/main/images/fph.gif" alt="First Person Hockey Multiplayer" width="500">
 <p>
   <a href="https://www.youtube.com/watch?v=jUX5UMskR-0&ab_channel=Diskokeisari" target="_blank">Gameplay Video</a><br>
   <a href="https://github.com/Juhosavi/FPH" target="_blank">GitHub Repository</a>
