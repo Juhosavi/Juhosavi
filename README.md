@@ -45,7 +45,7 @@
 
 
 <h3>Spaceman & Spaceboy</h3>
-<p>A solo Unity project with custom-made graphics.</p>
+<p>A solo project inspired by Space Invaders. I created the graphics, sound effects, game design, and programmed the entire game. It also features a Save & Load and a multiplayer mode built with Photon. </p>
 <img src="https://github.com/Juhosavi/Juhosavi/blob/main/images/space.gif" alt="Spaceman & Spaceboy" width="500">
 <p>
   <a href="https://juhosavi.itch.io/spacegame" target="_blank">Play the game</a><br>
