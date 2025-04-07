@@ -62,7 +62,7 @@
 
 <h3>SpaceCat</h3>
 <p>My first group game project, where I coded core gameplay mechanics.</p>
-<img src="https://github.com/Juhosavi/Juhosavi/blob/main/images/spacecatgif.gif" alt="SpaceCat" width="500">
+<img src="https://github.com/Juhosavi/Juhosavi/blob/main/images/spacecat.gif" alt="SpaceCat" width="500">
 <p>
   <a href="https://youtu.be/9X_vHkCXZ6A" target="_blank">Gameplay Video</a><br>
   <a href="https://github.com/Juhosavi/games/tree/main/SpaceCatGame" target="_blank">GitHub Repository</a>
