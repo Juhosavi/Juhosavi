@@ -53,7 +53,7 @@
 </p>
 
 <h3>Dark Rooms</h3>
-<p>A first-person horror game created as a group project.</p>
+<p>A first-person horror game focusing on puzzle-solving and atmospheric tension. I served as a programmer and project lead, responsible for most of the player logic, movement, interaction system, code, game design, and world-building. </p>
 <img src="https://github.com/Juhosavi/Juhosavi/blob/main/images/horrorrr.gif" alt="Dark Rooms" width="500">
 <p>
   <a href="https://www.youtube.com/watch?v=7ZX4Ji5UHEM&ab_channel=Diskokeisari" target="_blank">Gameplay Video</a><br>
@@ -61,7 +61,7 @@
 </p>
 
 <h3>SpaceCat</h3>
-<p>My first group game project, where I coded core gameplay mechanics.</p>
+<p>SpaceCat was my very first game project, developed by a 4-person team over the course of three months. It’s a 2D platformer where the player navigates through alien-infested levels, collecting diamonds to earn points, destroying enemies along the way, and ultimately reaching a rocket to return home. I handled most of the code, including character movement, enemy AI, and scoring systems and the core gameplay mechanics. </p>
 <img src="https://github.com/Juhosavi/Juhosavi/blob/main/images/spacecat.gif" alt="SpaceCat" width="500">
 <p>
   <a href="https://youtu.be/9X_vHkCXZ6A" target="_blank">Gameplay Video</a><br>
@@ -69,9 +69,7 @@
 </p>
 
 <h3>Chess Game & AI Bot</h3>
-<p>A full-featured chess game where the player competes against a custom AI opponent.  
-The bot uses alpha-beta pruning and asynchronous move evaluation for smarter and faster decision-making.  
-Built with C++ and rendered using SFML.</p>
+<p>A comprehensive chess game where players face off against a custom AI bot. The game implements full chess rules and advanced AI decision-making using the alpha-beta pruning algorithm along with asynchronous operations to efficiently evaluate moves concurrently. Uses SFML for graphics. </p>
 <img src="https://github.com/Juhosavi/Juhosavi/blob/main/images/chessgame.png" alt="Chess Game & AI Bot" width="500">
 <p>
   <a href="https://github.com/Juhosavi/Chessbot_cpp" target="_blank">GitHub Repository</a>
@@ -84,8 +82,7 @@ Built with C++ and rendered using SFML.</p>
 </p>
 
 <h3>Airport Z</h3>
-<p>A web-based adventure survival game where players travel between airports, 
-navigate using an interactive map, and fight zombies while reaching their final destination.</p>
+<p>Airport Z is a web-based adventure survival game where players must travel between airports, navigate using an interactive map, and fight off zombies while reaching their final destination. The game utilizes Leaflet.js with OpenStreetMap for real-time navigation and SQL for backend data handling. </p>
 <p>
   <a href="https://github.com/Juhosavi/AirportZ_2077" target="_blank">GitHub Repository</a>
 </p>
