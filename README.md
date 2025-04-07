@@ -89,4 +89,3 @@
 
 <hr>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juhosavi&layout=compact" alt="Top Languages"></p>
