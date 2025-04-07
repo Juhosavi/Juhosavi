@@ -67,7 +67,7 @@
 </p>
 
 <h3>Chess Game & AI Bot</h3>
-<img src="images/chessbot.jpg" alt="Chess Game & AI Bot" style="width:100%;max-width:600px;">
+<img src="images/chessgame.png" alt="Chess Game & AI Bot" style="width:100%;max-width:600px;">
 <p>A full-featured chess game where the player competes against a custom AI opponent.  
 The bot uses alpha-beta pruning and asynchronous move evaluation for smarter and faster decision-making.  
 Built with C++ and rendered using SFML.</p>
