@@ -2,7 +2,6 @@
 <p><a href="https://juhosavi.github.io" target="_blank"><strong>🔗 Portfolio: juhosavi.github.io</strong></a></p>
 <strong>Game Programmer & Developer</strong>
 
-
 <p>👋 Hi, I’m Juho, a passionate game developer with experience in both solo and team projects. I specialize in <strong>C# and Unity</strong> but am currently expanding my expertise into <strong>Unreal Engine and MetaHumans</strong>.</p>
 
 <h2>🛠 Skills</h2>
@@ -14,6 +13,22 @@
 
 <p>🚀 <strong>Currently Learning:</strong> Blender & Unreal Engine</p>
 <p>📫 <strong>Contact:</strong> <a href="https://www.linkedin.com/in/juho-savinainen-61819122b/" target="_blank">LinkedIn</a></p>
+
+<hr>
+
+<h2>🧰 Tools</h2>
+
+<p>A collection of custom Unity Editor tools I've built to streamline development workflows. These demonstrate my understanding of editor scripting and tooling.</p>
+
+<ul>
+  <li><strong>Missing Script Finder</strong> – Finds all GameObjects in the scene with missing scripts</li>
+  <li><strong>Prefab Spawner</strong> – Spawns selected prefabs to randomized spawn points</li>
+  <li><strong>Level Exporter</strong> – Exports GameObject data into a JSON file</li>
+</ul>
+
+<p>
+  🔗 <a href="https://github.com/Juhosavi/UnityToolsCollection" target="_blank">GitHub Repository</a>
+</p>
 
 <hr>
 
@@ -46,6 +61,7 @@
   <a href="https://youtu.be/9X_vHkCXZ6A" target="_blank">Gameplay Video</a><br>
   <a href="https://github.com/Juhosavi/games/tree/main/SpaceCatGame" target="_blank">GitHub Repository</a>
 </p>
+
 <h3>Chess Game & AI Bot</h3>
 <p>A full-featured chess game where the player competes against a custom AI opponent.  
 The bot uses alpha-beta pruning and asynchronous move evaluation for smarter and faster decision-making.  
@@ -53,7 +69,6 @@ Built with C++ and rendered using SFML.</p>
 <p>
   <a href="https://github.com/Juhosavi/Chessbot_cpp" target="_blank">GitHub Repository</a>
 </p>
-
 
 <h3>Bubble Brawl (GameJam 2024)</h3>
 <p>A chaotic multiplayer bubble-fighting game.</p>
