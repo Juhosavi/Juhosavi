@@ -35,6 +35,7 @@
 <h2>My Game Projects</h2>
 
 <h3>First Person Hockey Multiplayer</h3>
+<img src="images/fph.gif" alt="First Person Hockey Multiplayer" style="max-width: 100%; height: auto;" />
 <p>A fast-paced online multiplayer hockey game with first-person controls.</p>
 <p>
   <a href="https://www.youtube.com/watch?v=jUX5UMskR-0&ab_channel=Diskokeisari" target="_blank">Gameplay Video</a><br>
@@ -42,6 +43,7 @@
 </p>
 
 <h3>Spaceman & Spaceboy</h3>
+<img src="images/space.gif" alt="Spaceman & Spaceboy" style="max-width: 100%; height: auto;" />
 <p>A solo Unity project with custom-made graphics.</p>
 <p>
   <a href="https://juhosavi.itch.io/spacegame" target="_blank">Play the game</a><br>
@@ -49,6 +51,7 @@
 </p>
 
 <h3>Dark Rooms</h3>
+<img src="images/horrorrr.gif" alt="Dark Rooms" style="max-width: 100%; height: auto;" />
 <p>A first-person horror game created as a group project.</p>
 <p>
   <a href="https://www.youtube.com/watch?v=7ZX4Ji5UHEM&ab_channel=Diskokeisari" target="_blank">Gameplay Video</a><br>
@@ -56,6 +59,7 @@
 </p>
 
 <h3>SpaceCat</h3>
+<img src="images/spacecat.png" alt="SpaceCat" style="max-width: 100%; height: auto;" />
 <p>My first group game project, where I coded core gameplay mechanics.</p>
 <p>
   <a href="https://youtu.be/9X_vHkCXZ6A" target="_blank">Gameplay Video</a><br>
@@ -63,25 +67,26 @@
 </p>
 
 <h3>Chess Game & AI Bot</h3>
-<p>A full-featured chess game where the player competes against a custom AI opponent.  
-The bot uses alpha-beta pruning and asynchronous move evaluation for smarter and faster decision-making.  
-Built with C++ and rendered using SFML.</p>
+<img src="images/chessgame.png" alt="Chess Game & AI Bot" style="max-width: 100%; height: auto;" />
+<p>A full-featured chess game where the player competes against a custom AI opponent.</p>
 <p>
   <a href="https://github.com/Juhosavi/Chessbot_cpp" target="_blank">GitHub Repository</a>
 </p>
 
 <h3>Bubble Brawl (GameJam 2024)</h3>
+<img src="images/bubblebrawl.gif" alt="Bubble Brawl" style="max-width: 100%; height: auto;" />
 <p>A chaotic multiplayer bubble-fighting game.</p>
 <p>
   <a href="https://juhosavi.itch.io/bubble-brawl" target="_blank">Play the game</a>
 </p>
 
 <h3>Airport Z</h3>
-<p>A web-based adventure survival game where players travel between airports, 
-navigate using an interactive map, and fight zombies while reaching their final destination.</p>
+<img src="images/airportz.png" alt="Airport Z" style="max-width: 100%; height: auto;" />
+<p>A web-based adventure survival game where players travel between airports, navigate using an interactive map, and fight zombies while reaching their final destination.</p>
 <p>
   <a href="https://github.com/Juhosavi/AirportZ_2077" target="_blank">GitHub Repository</a>
 </p>
+
 
 <hr>
 
