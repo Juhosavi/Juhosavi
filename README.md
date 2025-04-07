@@ -46,6 +46,7 @@
 
 <h3>Spaceman & Spaceboy</h3>
 <p>A solo Unity project with custom-made graphics.</p>
+<img src="https://github.com/Juhosavi/Juhosavi/blob/main/images/space.gif" alt="Spaceman & Spaceboy" width="500">
 <p>
   <a href="https://juhosavi.itch.io/spacegame" target="_blank">Play the game</a><br>
   <a href="https://github.com/Juhosavi/Spaceman" target="_blank">GitHub Repository</a>
@@ -53,6 +54,7 @@
 
 <h3>Dark Rooms</h3>
 <p>A first-person horror game created as a group project.</p>
+<img src="https://github.com/Juhosavi/Juhosavi/blob/main/images/horrorrr.gif" alt="Dark Rooms" width="500">
 <p>
   <a href="https://www.youtube.com/watch?v=7ZX4Ji5UHEM&ab_channel=Diskokeisari" target="_blank">Gameplay Video</a><br>
   <a href="https://github.com/Juhosavi/DarkRooms" target="_blank">GitHub Repository</a>
@@ -69,6 +71,7 @@
 <p>A full-featured chess game where the player competes against a custom AI opponent.  
 The bot uses alpha-beta pruning and asynchronous move evaluation for smarter and faster decision-making.  
 Built with C++ and rendered using SFML.</p>
+<img src="https://github.com/Juhosavi/Juhosavi/blob/main/images/chessgame.png" alt="Chess Game & AI Bot" width="500">
 <p>
   <a href="https://github.com/Juhosavi/Chessbot_cpp" target="_blank">GitHub Repository</a>
 </p>
