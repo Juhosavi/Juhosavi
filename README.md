@@ -2,7 +2,7 @@
 <p><a href="https://juhosavi.github.io" target="_blank"><strong>🔗 Portfolio: juhosavi.github.io</strong></a></p>
 <strong>Game Programmer & Developer</strong>
 
-<p>👋 Hi, I’m Juho, a passionate game developer with experience in both solo and team projects. I specialize in <strong>C# and Unity</strong> but am currently expanding my expertise into <strong>Unreal Engine and MetaHumans</strong>.</p>
+<p>👋 Hi, I’m Juho, a game developer with experience in both solo and team projects. I specialize in <strong>C# and Unity</strong> and am currently expanding my expertise into <strong>Unreal Engine and MetaHumans</strong>.</p>
 
 <h2>🛠 Skills</h2>
 <ul>
