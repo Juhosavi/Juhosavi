@@ -35,11 +35,13 @@
 <h2>My Game Projects</h2>
 
 <h3>First Person Hockey Multiplayer</h3>
+<img src="https://juhosavi.github.io/images/fph.gif" alt="First Person Hockey Multiplayer" width="500">
 <p>A fast-paced online multiplayer hockey game with first-person controls.</p>
 <p>
   <a href="https://www.youtube.com/watch?v=jUX5UMskR-0&ab_channel=Diskokeisari" target="_blank">Gameplay Video</a><br>
   <a href="https://github.com/Juhosavi/FPH" target="_blank">GitHub Repository</a>
 </p>
+
 
 <h3>Spaceman & Spaceboy</h3>
 <p>A solo Unity project with custom-made graphics.</p>
