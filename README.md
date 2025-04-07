@@ -32,7 +32,7 @@
 
 <hr>
 
-<h2> Projects</h2>
+<h2>My Game Projects</h2>
 
 <h3>First Person Hockey Multiplayer</h3>
 <p>A fast-paced online multiplayer hockey game with first-person controls.</p>
