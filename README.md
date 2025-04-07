@@ -1,5 +1,7 @@
 <h1>Juho Savinainen</h1>
+<p><a href="https://juhosavi.github.io" target="_blank"><strong>🔗 Portfolio: juhosavi.github.io</strong></a></p>
 <strong>Game Programmer & Developer</strong>
+
 
 <p>👋 Hi, I’m Juho, a passionate game developer with experience in both solo and team projects. I specialize in <strong>C# and Unity</strong> but am currently expanding my expertise into <strong>Unreal Engine and MetaHumans</strong>.</p>
 
