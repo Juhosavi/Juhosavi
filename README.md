@@ -13,7 +13,7 @@
 </ul>
 
 <p>🚀 <strong>Currently Learning:</strong> Blender & Unreal Engine</p>
-<p>📫 <strong>Contact:</strong> <a href="https://www.youtube.com/@Diskokeisari/featured" target="_blank">YouTube</a></p>
+<p>📫 <strong>Contact:</strong> <a href="https://www.linkedin.com/in/juho-savinainen-61819122b/" target="_blank">LinkedIn</a></p>
 
 <hr>
 
