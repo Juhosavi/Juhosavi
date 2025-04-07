@@ -6,19 +6,19 @@
 
 <h2>🛠 Skills</h2>
 <ul>
-  <li>💾 <strong>Coding:</strong> C#, C++, Python</li>
-  <li>🖥️ <strong>Engines:</strong> Unity, Unreal, Godot</li>
-  <li>💻 <strong>Other:</strong> Python, JavaScript, HTML, CSS, SQL</li>
+  <li> <strong>Coding:</strong> C#, C++, Python</li>
+  <li> <strong>Engines:</strong> Unity, Unreal, Godot</li>
+  <li> <strong>Other:</strong> Python, JavaScript, HTML, CSS, SQL</li>
 </ul>
 
-<p>🚀 <strong>Currently Learning:</strong> Blender & Unreal Engine</p>
-<p>📫 <strong>Contact:</strong> <a href="https://www.linkedin.com/in/juho-savinainen-61819122b/" target="_blank">LinkedIn</a></p>
+<p> <strong>Currently Learning:</strong> Blender & Unreal Engine</p>
+<p> <strong>Contact:</strong> <a href="https://www.linkedin.com/in/juho-savinainen-61819122b/" target="_blank">LinkedIn</a></p>
 
 <hr>
 
-<h2>🧰 Tools</h2>
+<h2>Tools</h2>
 
-<p>A collection of custom Unity Editor tools I've built to streamline development workflows. These demonstrate my understanding of editor scripting and tooling.</p>
+<p>A small collection of custom Unity Editor tools I’ve created to improve development workflows and explore editor scripting.</p>
 
 <ul>
   <li><strong>Missing Script Finder</strong> – Finds all GameObjects in the scene with missing scripts</li>
@@ -32,7 +32,7 @@
 
 <hr>
 
-<h2>🔥 Projects</h2>
+<h2> Projects</h2>
 
 <h3>First Person Hockey Multiplayer</h3>
 <p>A fast-paced online multiplayer hockey game with first-person controls.</p>
